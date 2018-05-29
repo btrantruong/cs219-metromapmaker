@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    This XML file provides all the text to be used when the application
+    is to be displayed in English.
+-->
+<properties>
+    <property_list>        
+        
+        <!-- ENGLISH LANGUAGE SETTINGS FOR DESKTOP JAVA FRAMEWORK CONTROLS -->
+
+        <!-- APPLICATION-WIDE ERROR MESSAGES-->
+        <property name="APP_ERROR_TITLE"	value="Application Error"></property>	
+        <property name="APP_ERROR_CONTENT"	value="An Error Occured in the Application"></property>        
+        <property name="PROPERTIES_ERROR_TITLE" value="Properties File Error"></property>
+        <property name="PROPERTIES_ERROR_CONTENT" value="There was an Error Loading a Properties File"></property>
+                
+        <!-- m3 LABELS -->
+        <property name="METRO_LINE_PANE"        value="Metro Lines"></property>
+        <property name="METRO_STATION_PANE"     value="Metro Stations"></property>
+        <property name="DECOR_PANE"             value="Decor"></property>
+        <property name="FONT_PANE"              value="Font"></property>
+        <property name="NAVIGATION_PANE"        value="Navigation"></property>
+        
+        <!-- DESKTOP JAVA FRAMEWORK CONTROLS - FILE TOOLBAR TOOLTIPS -->
+        <property name="NEW_TOOLTIP"		value="Create a New Logo"></property>
+        <property name="LOAD_TOOLTIP"		value="Load an Existing Logo"></property>
+        <property name="CLOSE_TOOLTIP"          value="Close this Logo"></property>
+        <property name="SAVE_TOOLTIP"		value="Save this Logo"></property>
+        <property name="EXPORT_TOOLTIP"		value="Export This Map"></property>
+        <property name="SAVE_AS_TOOLTIP"        value="Save As another Logo"></property>
+        <property name="EXIT_TOOLTIP"		value="Exit the Application"></property>
+        
+        <!-- m3 CONTROLS - EDIT TOOLBAR LABELS -->
+        <property name="ADD_STATION_TO_LINE"		value="Add Station"></property>
+        <property name="REMOVE_STATION_FROM_LINE"	value="Remove Station"></property>
+        <property name="SNAP_LABEL"                     value="Snap Label"></property>
+        <property name="MOVE_LABEL"                     value="Move Label"></property>
+        <property name="SET_IMAGE_BACKGROUND"           value="Set Image Background"></property>
+        <property name="ADD_IMAGE"                      value="Add Image"></property>
+        <property name="ADD_LABEL"                      value="Add Label"></property>
+        <property name="REMOVE_ELEMENT"                 value="Remove Element"></property>
+        
+        <!-- m3 CONTROLS - EDIT TOOLBAR TOOLTIPS -->
+        <property name="EDIT_LINE_TOOLTIP"                    value="Edit Line Properties"></property>
+        <property name="EDIT_STATION_TOOLTIP"                    value="Edit Station Properties"></property>
+        <property name="ADD_STATION_TOOLTIP"                    value="Add Station"></property>
+        <property name="REMOVE_STATION_TOOLTIP"                 value="Remove Station"></property>
+        <property name="ADD_LINE_TOOLTIP"                    value="Add Line"></property>
+        <property name="REMOVE_LINE_TOOLTIP"                 value="Remove Line"></property>
+        <property name="ADD_STATION_TO_LINE_TOOLTIP"		value="Add Station to Line"></property>
+        <property name="REMOVE_STATION_FROM_LINE_TOOLTIP"	value="Remove Station from Line"></property>
+        <property name="SNAP_LABEL_TOOLTIP"                     value="Snap Label"></property>
+        <property name="MOVE_LABEL_TOOLTIP"                     value="Move Label"></property>
+        <property name="ROTATE_LABEL_TOOLTIP"                     value="Rotate Label"></property>
+        <property name="SET_IMAGE_BACKGROUND_TOOLTIP"           value="Set Image Background"></property>
+        <property name="ADD_IMAGE_TOOLTIP"                      value="Add Image"></property>
+        <property name="ADD_LABEL_TOOLTIP"                      value="Add Label"></property>
+        <property name="REMOVE_ELEMENT_TOOLTIP"                 value="Remove Element"></property>
+	<property name="SELECT_TOOLTIP"                         value="Use Shape Selection Tool"></property>
+        <property name="REMOVE_TOOLTIP"                         value="Remove Element"></property>
+        <property name="EXPAND_TOOLTIP"                         value="Increase Map Size"></property>
+        <property name="COLLAPSE_TOOLTIP"                         value="Decrese Map Size"></property>
+         <property name="ZOOM_IN_TOOLTIP"                         value="Zoom In"></property>
+        <property name="ZOOM_OUT_TOOLTIP"                         value="Zoom Out"></property>
+        <property name="FIND_ROUTE_TOOLTIP"                         value="Find shortest Route"></property>
+        <property name="STATION_LIST_TOOLTIP"                         value="Show All Stations in Line"></property>
+
+        <!-- DESKTOP JAVA FRAMEWORK CONTROLS - UNDO TOOLBAR TOOLTIPS -->
+        <property name="UNDO_TOOLTIP"           value="Undo Last Edit"></property>
+        <property name="REDO_TOOLTIP"           value="Redo Most Recent Undo"></property>
+        
+        <!-- DESKTOP JAVA FRAMEWORK CONTROLS - SETTINGS TOOLBAR TOOLTIPS -->
+        <property name="LANGUAGE_TOOLTIP"       value="Open LANGUAGE Dialog"></property>
+        <property name="HELP_TOOLTIP"           value="Open Help Dialog"></property>
+        <property name="ABOUT_TOOLTIP"          value="Open About Dialog"></property>
+
+        <!-- NEW FEEDBACK DIALOGS -->	
+        <property name="NEW_SUCCESS_TITLE"      value="New Complete"></property>
+        <property name="NEW_SUCCESS_CONTENT"	value="Work Created but not yet Saved"></property>
+        <property name="NEW_ERROR_TITLE"        value="Warning: Error"></property>
+        <property name="NEW_ERROR_CONTENT"      value="An error occured creating New work."></property>
+
+        <!-- LOAD FEEDBACK DIALOGS -->
+        <property name="LOAD_WORK_TITLE"        value="Load Work"></property>
+        <property name="LOAD_SUCCESS_TITLE"     value="Load Complete"></property>
+        <property name="LOAD_SUCCESS_CONTENT"   value="The File has Loaded Successfully and can now be edited."></property>
+        <property name="LOAD_ERROR_TITLE"       value="Loading Error"></property>        
+            <property name="LOAD_ERROR_CONTENT"     value="Loading has Failed. Likely there is a File Formating problem."></property>
+
+        <!-- SAVE FEEDBACK DIALOGS -->
+        <property name="SAVE_WORK_TITLE"        value="Save Work"></property>
+        <property name="SAVE_SUCCESS_TITLE"     value="Save Complete"></property>
+        <property name="SAVE_SUCCESS_CONTENT"   value="The file is saved."></property>
+        <property name="SAVE_ERROR_TITLE"       value="Save Error"></property>
+        <property name="SAVE_ERROR_CONTENT"     value="Saving has Failed. Likely due to a file access problem."></property>
+        <property name="SAVE_VERIFY_TITLE"	value="Save unsaved work?"></property>
+        <property name="SAVE_VERIFY_CONTENT"	value="Would you like to save your unsaved work first?"></property>
+	<property name="EXPORT_WORK_TITLE"        value="Export Work"></property>
+        <property name="EXPORT_SUCCESS_TITLE"     value="Export Complete"></property>
+        <property name="EXPORT_SUCCESS_CONTENT"   value="The file is exported."></property>
+        <property name="EXPORT_ERROR_TITLE"       value="Export Error"></property>
+        <property name="EXPORT_ERROR_CONTENT"     value="Exporting has Failed. Likely due to a file access problem."></property>
+        <property name="ABOUT_TITLE"                    value="About Metro Map Maker"></property>
+        <property name="ABOUT_CONTENT"                  value="Metro Map Maker - Debugging Enterprises - © 2017"></property>
+        <property name="STATION_LIST_DIALOG_TITLE"      value="Station List"></property>
+        <property name="STATION_LIST_DIALOG_HEADER"      value="List of all Stations in this Line: "></property>
+
+        
+	<property name="WORK_FILE_EXT"			value="mmm"></property>
+	<property name="WORK_FILE_EXT_DESC"		value="metroMapMaker Files"></property>
+        <property name="EXPORT_JSON_EXT"		value=".json"></property>
+        <property name="EXPORT_IMAGE_EXT"		value=".png"></property>
+	<property name="EXPORT_JSON_EXT_DESC"		value="Metro Map Maker JSON"></property>
+        <property name="EXPORT_IMAGE_EXT_DESC"		value="Metro Map Maker Image"></property>
+
+        <!-- 2) LANGUAGE SETTINGS FOR goLogoLo CONTROLS  -->
+        
+        <!-- goLogoLo TOOLTIPS -->
+           
+	<property name="ADD_RECTANGLE_TOOLTIP"	    value="Add Rectangle"></property>
+	<property name="ADD_ELLIPSE_TOOLTIP"	    value="Add Ellipse"></property>
+	<property name="ADD_IMAGE_TOOLTIP"          value="Add Image"></property>    
+	<property name="ADD_TEXT_TOOLTIP"           value="Add Text"></property>
+	<property name="BOLD_TEXT_TOOLTIP"               value="Bold Text"></property>
+	<property name="ITALICIZE_TEXT_TOOLTIP"            value="Italicize Text"></property>
+        <property name="MOVE_TO_BACK_TOOLTIP"	    value="Move Shape to Back"></property>
+	<property name="MOVE_TO_FRONT_TOOLTIP"	    value="Move Shape to Front"></property>
+	<property name="BACKGROUND_TOOLTIP"	    value="Select Background Color"></property>
+	<property name="FILL_TOOLTIP"		    value="Select Fill Color"></property>
+	<property name="OUTLINE_TOOLTIP"	    value="Select Outline Color"></property>
+	<property name="SNAPSHOT_TOOLTIP"	    value="Take Snapshot"></property>
+
+        <!-- goLogoLo LABELS -->
+        <property name="BACKGROUND_COLOR_TEXT"     value="Background Color"></property>
+        <property name="FILL_COLOR_TEXT"           value="Fill Color"></property>
+        <property name="OUTLINE_COLOR_TEXT"        value="Outline Color"></property>
+        <property name="OUTLINE_THICKNESS_TEXT"    value="Outline Thickness"></property>	                
+
+        <!-- TO SWITCH BACK TO ANOTHER LANGUAGE -->
+        <property name="LANGUAGE_DIALOG_TITLE"          value="App Language Selection"></property>
+        <property name="LANGUAGE_DIALOG_HEADER_TEXT"    value="Choose a Language"></property>
+        <property name="LANGUAGE_DIALOG_CONTENT_TEXT"   value="Select a Language for the User Interface."></property>
+        
+        <!-- DIALOG PROMPTS FOR TEXT INPUT -->
+        <property name="INPUT_DIALOG_TITLE"          value="User Input Required"></property>
+        <property name="INPUT_DIALOG_HEADER_TEXT"    value="Choose a Name for Station/Line"></property>
+        <property name="INPUT_DIALOG_CONTENT_TEXT"   value="Enter Station/Line Name: "></property>
+        
+        <!-- DIALOG PROMPTS FOR TEXT INPUT -->
+        <property name="PATH_TITLE"          value="Minimum Transfer Path Description"></property>
+        <property name="CONFIRM_REMOVE_TITLE"          value="Confirm Delete"></property>
+        <property name="CONFIRM_REMOVE_CONTENT_TEXT"   value="Are you sure you want to delete this map element?"></property>
+        <property name="CONFIRM_REMOVE_LINE_CONTENT_TEXT"   value="Are you sure you want to delete this Metro Line?"></property>
+        <property name="CONFIRM_REMOVE_STATION_CONTENT_TEXT"   value="Are you sure you want to delete this Metro Station?"></property>
+    </property_list>
+    
+    <!-- goLogoLo COMBO BOX CHOICES -->
+    <property_options_list>
+        <property_options name="LANGUAGE_OPTIONS">
+            <option>English</option>
+            <option>Korean</option>
+        </property_options>
+        <property_options name="FONT_FAMILY_COMBO_BOX_OPTIONS">
+            <option>Arial</option>
+            <option>Calibri</option>
+            <option>Monospaced</option>
+            <option>Sans-serif</option>
+            <option>Serif</option>            
+        </property_options>
+    </property_options_list>
+</properties>

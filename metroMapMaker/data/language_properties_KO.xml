@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    This XML file provides all the text to be used when the application
+    is to be displayed in Korean.
+-->
+<properties>
+    <property_list>        
+        
+       <!-- KOREAN LANGUAGE SETTINGS FOR DESKTOP JAVA FRAMEWORK CONTROLS -->
+
+        <!-- APPLICATION-WIDE ERROR MESSAGES-->
+        <property name="APP_ERROR_TITLE"	value="응용 프로그램 오류"></property>	
+        <property name="APP_ERROR_CONTENT"	value="응용 프로그램에서 오류가 발생했습니다"></property>        
+        <property name="PROPERTIES_ERROR_TITLE" value="속성 파일 오류"></property>
+        <property name="PROPERTIES_ERROR_CONTENT" value="속성 파일을로드하는 중 오류가 발생했습니다"></property>
+        
+        <!-- DESKTOP JAVA FRAMEWORK CONTROLS - FILE TOOLBAR TOOLTIPS -->
+        <property name="NEW_TOOLTIP"		value="새 로고 만들기"></property>
+        <property name="LOAD_TOOLTIP"		value="기존 로고로드"></property>
+        <property name="CLOSE_TOOLTIP"          value="이 로고 닫기"></property>
+        <property name="SAVE_TOOLTIP"		value="이 로고 저장"></property>
+        <property name="SAVE_AS_TOOLTIP"        value="다른 로고로 저장"></property>
+        <property name="EXIT_TOOLTIP"		value="응용 프로그램 종료"></property>
+         
+        <!-- DESKTOP JAVA FRAMEWORK CONTROLS - CUT/COPY/PASTE TOOLBAR TOOLTIPS -->
+        <property name="CUT_TOOLTIP"            value="선택한 요소 잘라 내기"></property>
+        <property name="COPY_TOOLTIP"           value="선택한 요소 복사"></property>
+        <property name="PASTE_TOOLTIP"          value="클립 보드에서 요소 붙여 넣기"></property>
+
+        <!-- DESKTOP JAVA FRAMEWORK CONTROLS - UNDO/REDO TOOLBAR TOOLTIPS -->
+        <property name="UNDO_TOOLTIP"           value="마지막 편집 실행 취소"></property>
+        <property name="REDO_TOOLTIP"           value="가장 최근에 실행 취소 다시 실행"></property>
+        
+        <!-- DESKTOP JAVA FRAMEWORK CONTROLS - SETTINGS/HELP/ABOUT TOOLBAR TOOLTIPS -->
+        <property name="LANGUAGE_TOOLTIP"       value="설정 열기 대화 상자"></property>
+        <property name="HELP_TOOLTIP"           value="도움말 대화 상자 열기"></property>
+        <property name="ABOUT_TOOLTIP"          value="정보 대화 상자 열기"></property>
+
+        <!-- NEW FEEDBACK DIALOGS -->	
+        <property name="NEW_SUCCESS_TITLE"      value="새로운 완료"></property>
+        <property name="NEW_SUCCESS_CONTENT"	value="생성되었지만 아직 저장되지 않은 작업"></property>
+        <property name="NEW_ERROR_TITLE"        value="경고 : 오류"></property>
+        <property name="NEW_ERROR_CONTENT"      value="새 작업을 만드는 동안 오류가 발생했습니다."></property>
+
+        <!-- LOAD FEEDBACK DIALOGS -->
+        <property name="LOAD_WORK_TITLE"        value="작업로드"></property>
+        <property name="LOAD_SUCCESS_TITLE"     value="로드 완료"></property>
+        <property name="LOAD_SUCCESS_CONTENT"   value="파일이 성공적으로로드되었으며 이제 편집 할 수 있습니다."></property>
+        <property name="LOAD_ERROR_TITLE"       value="로딩 오류"></property>        
+        <property name="LOAD_ERROR_CONTENT"     value="로드가 실패했습니다. 파일 형성 문제가있을 가능성이 있습니다."></property>
+
+        <!-- SAVE FEEDBACK DIALOGS -->
+        <property name="SAVE_WORK_TITLE"        value="작업 저장"></property>
+        <property name="SAVE_SUCCESS_TITLE"     value="저장 완료"></property>
+        <property name="SAVE_SUCCESS_CONTENT"   value="파일이 저장됩니다."></property>
+        <property name="SAVE_ERROR_TITLE"       value="오류 저장"></property>
+        <property name="SAVE_ERROR_CONTENT"     value="저장하지 못했습니다. 파일 액세스 문제로 인한 것 같습니다."></property>
+            <property name="SAVE_VERIFY_TITLE"	value="저장되지 않은 작업을 저장 하시겠습니까?"></property>
+        <property name="SAVE_VERIFY_CONTENT"	value="저장되지 않은 작업을 먼저 저장 하시겠습니까?"></property>
+	
+        <property name="ABOUT_TITLE"                    value="goLogoLo 정보"></property>
+        <property name="ABOUT_CONTENT"                  value="goLogoLo - 기업 디버깅 - © 2017"></property>
+        
+	<property name="WORK_FILE_EXT"			value="pm"></property>
+	<property name="WORK_FILE_EXT_DESC"		value="goLogoLo 파일"></property>
+
+        <!-- 2) LANGUAGE SETTINGS FOR goLogoLo CONTROLS  -->
+        
+        <!-- goLogoLo TOOLTIPS -->
+	<property name="SELECT_TOOLTIP"	    value="모양 선택 도구 사용"></property>
+        <property name="REMOVE_TOOLTIP"	    value="요소 제거"></property>
+	<property name="ADD_RECTANGLE_TOOLTIP"	    value="직사각형 추가"></property>
+	<property name="ADD_ELLIPSE_TOOLTIP"	    value="타원 추가"></property>
+	<property name="ADD_IMAGE_TOOLTIP"          value="이미지 추가"></property>    
+	<property name="ADD_TEXT_TOOLTIP"           value="텍스트 추가"></property>
+	<property name="BOLD_TEXT_TOOLTIP"               value="굵은 글씨체"></property>
+	<property name="ITALICIZE_TEXT_TOOLTIP"            value="텍스트 기울임 꼴로 표시"></property>
+        <property name="MOVE_TO_BACK_TOOLTIP"	    value="모양을 뒤로 이동"></property>
+	<property name="MOVE_TO_FRONT_TOOLTIP"	    value="도형을 앞쪽으로 이동"></property>
+	<property name="BACKGROUND_TOOLTIP"	    value="배경색 선택"></property>
+	<property name="FILL_TOOLTIP"		    value="채우기 색상 선택"></property>
+	<property name="OUTLINE_TOOLTIP"	    value="외곽선 색상 선택"></property>
+	<property name="SNAPSHOT_TOOLTIP"	    value="스냅 샷 찍기"></property>
+
+        <!-- goLogoLo LABELS -->
+        <property name="BACKGROUND_COLOR_TEXT"     value="배경색"></property>
+        <property name="FILL_COLOR_TEXT"           value="채우기 색"></property>
+        <property name="OUTLINE_COLOR_TEXT"        value="윤곽선 색"></property>
+        <property name="OUTLINE_THICKNESS_TEXT"    value="외형 두께"></property>	                
+
+        <!-- TO SWITCH BACK TO ANOTHER LANGUAGE -->
+        <property name="LANGUAGE_DIALOG_TITLE"          value="앱 언어 선택"></property>
+        <property name="LANGUAGE_DIALOG_HEADER_TEXT"    value="언어 선택"></property>
+        <property name="LANGUAGE_DIALOG_CONTENT_TEXT"   value="사용자 인터페이스의 언어를 선택하십시오."></property>
+
+    </property_list>
+    
+    <!-- goLogoLo COMBO BOX CHOICES -->
+    <property_options_list>
+        <property_options name="LANGUAGE_OPTIONS">
+            <option>영어</option>
+            <option>한국어</option>
+        </property_options>
+        <property_options name="FONT_FAMILY_COMBO_BOX_OPTIONS">
+            <option>Dialog</option>
+            <option>DialogInput</option>
+            <option>Monospaced</option>
+            <option>Sans-serif</option>
+            <option>Serif</option>            
+        </property_options>
+    </property_options_list>
+</properties>
